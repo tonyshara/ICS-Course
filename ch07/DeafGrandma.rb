@@ -7,7 +7,8 @@ while true
     year = rand(1930..1951).to_s
     puts 'No, not since ' + year + '!'
     say = gets.chomp
-  else say == 'BYE'
+  else
+    say == 'BYE'
     break
   end
 end
