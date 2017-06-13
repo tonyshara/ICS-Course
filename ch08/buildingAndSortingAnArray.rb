@@ -1,5 +1,5 @@
 words = []
-while true
+while true 
   word = gets.chomp
   if word == ''
     break
