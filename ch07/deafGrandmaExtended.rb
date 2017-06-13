@@ -1,4 +1,4 @@
-say = gets.chomp
+say = gets.chomp 
 while true
   if say != say.upcase
   puts 'HUH?! SPEAK UP, SONNY!'

@@ -1,4 +1,4 @@
-bottles = 99
+bottles = 99 
 while bottles > 1
   puts bottles.to_s + ' bottles of beer on the wall, '
   puts bottles.to_s + ' bottles of beer, take one down,'
