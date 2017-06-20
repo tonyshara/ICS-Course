@@ -1,6 +1,6 @@
 words = []
-while true 
-  word = gets.chomp
+while true
+  word = gets.chomp.downcase
   if word == ''
     break
   end
