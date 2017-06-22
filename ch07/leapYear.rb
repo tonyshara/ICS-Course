@@ -1,4 +1,4 @@
-puts 'what starting year?' 
+puts 'what starting year?'  
 year1 = gets.chomp.to_i
 puts 'what ending year'
 year2 = gets.chomp.to_i
